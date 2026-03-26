@@ -425,8 +425,7 @@ function criarListaCategoria(categoria) {
       divModal.appendChild(divModalDialog);
       col.appendChild(divModal);
 
-      let fecharModalDestaque = document.getElementById("fecharModal");
-      fecharModalDestaque.addEventListener("click", function () {
+      buttonFechar.addEventListener("click", function () {
         let iframe = document.querySelector(`#modal${filme.id} iframe`);
         iframe.setAttribute("src", iframe.getAttribute("src"));
       });

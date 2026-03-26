@@ -47,7 +47,6 @@ main {
   --bs-navbar-hover-color: #d4d4d4;
   --bs-navbar-active-color: #fff;
   --bs-navbar-brand-margin-end: 5rem;
-  --bs-navbar-toggler-icon-bg: url("../assets/images/list.svg");
   --bs-navbar-toggler-border-color: #adadad52;
 }
 
