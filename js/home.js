@@ -282,7 +282,7 @@ function carregarMain() {
 
   let buttonFechar = document.createElement("button");
   buttonFechar.setAttribute("id", "fecharModalDestaque");
-  buttonFechar.classList.add("btn-close");
+  buttonFechar.classList.add("btn-close", "bg-light");
   buttonFechar.setAttribute("type", "button");
   buttonFechar.setAttribute("data-bs-dismiss", "modal");
   buttonFechar.setAttribute("aria-label", "Close");
@@ -293,7 +293,7 @@ function carregarMain() {
   divModalHeader.appendChild(buttonFechar);
 
   let divModalContent = document.createElement("div");
-  divModalContent.classList.add("modal-content");
+  divModalContent.classList.add("modal-content", "bg-dark", "text-light");
   divModalContent.appendChild(divModalHeader);
   divModalContent.appendChild(divModalBody);
 
@@ -395,7 +395,7 @@ function criarListaCategoria(categoria) {
 
       let buttonFechar = document.createElement("button");
       buttonFechar.setAttribute("id", "fecharModal");
-      buttonFechar.classList.add("btn-close");
+      buttonFechar.classList.add("btn-close", "bg-light");
       buttonFechar.setAttribute("type", "button");
       buttonFechar.setAttribute("data-bs-dismiss", "modal");
       buttonFechar.setAttribute("aria-label", "Close");
@@ -406,7 +406,7 @@ function criarListaCategoria(categoria) {
       divModalHeader.appendChild(buttonFechar);
 
       let divModalContent = document.createElement("div");
-      divModalContent.classList.add("modal-content");
+      divModalContent.classList.add("modal-content", "bg-dark", "text-light");
       divModalContent.appendChild(divModalHeader);
       divModalContent.appendChild(divModalBody);
 
