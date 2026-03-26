@@ -1,7 +1,7 @@
 // Array de filmes
 const filmes = [
   {
-    img: "https:img.youtube.com/vi/aJ-HZuLcKeA/sddefault.jpg",
+    img: "https://img.youtube.com/vi/aJ-HZuLcKeA/sddefault.jpg",
     titulo: "Growcast #00 | Conheça a Growdev",
     link: "https://www.youtube.com/embed/aJ-HZuLcKeA?si=SI-9MVYS_cMDmGdW",
     categoria: "growcast",
@@ -9,7 +9,7 @@ const filmes = [
     id: 0,
   },
   {
-    img: "https:img.youtube.com/vi/7OWT3lfHYvE/sddefault.jpg",
+    img: "https://img.youtube.com/vi/7OWT3lfHYvE/sddefault.jpg",
     titulo: "Growcast #01 | As profissões do futuro",
     link: "https://www.youtube.com/embed/7OWT3lfHYvE?si=2su4NuY2Umaz_Xtp",
     categoria: "growcast",
@@ -17,7 +17,7 @@ const filmes = [
     id: 1,
   },
   {
-    img: "https:img.youtube.com/vi/ci1eQGPK89o/sddefault.jpg",
+    img: "https://img.youtube.com/vi/ci1eQGPK89o/sddefault.jpg",
     titulo: "Growcast #02 | Como seguir a carreira internacional?",
     link: "https://www.youtube.com/embed/ci1eQGPK89o?si=2j3lIY_7W9W6mbtb",
     categoria: "growcast",
@@ -25,7 +25,7 @@ const filmes = [
     id: 2,
   },
   {
-    img: "https:img.youtube.com/vi/WM7pGG7OicQ/sddefault.jpg",
+    img: "https://img.youtube.com/vi/WM7pGG7OicQ/sddefault.jpg",
     titulo: "Growcast #03 | Superando os desafios da carreira de Dev!",
     link: "https://www.youtube.com/embed/WM7pGG7OicQ?si=M3o30yV2v_9YMHrj",
     categoria: "growcast",
@@ -33,7 +33,7 @@ const filmes = [
     id: 3,
   },
   {
-    img: "https:img.youtube.com/vi/2c8VOBZ160Y/sddefault.jpg",
+    img: "https://img.youtube.com/vi/2c8VOBZ160Y/sddefault.jpg",
     titulo: "Growcast #04 | Agile Master: tudo sobre a profissão!",
     link: "https://www.youtube.com/embed/2c8VOBZ160Y?si=tij12tt90ki2HkVP",
     categoria: "growcast",
@@ -41,7 +41,7 @@ const filmes = [
     id: 4,
   },
   {
-    img: "https:img.youtube.com/vi/mxnEm03cYPc/sddefault.jpg",
+    img: "https://img.youtube.com/vi/mxnEm03cYPc/sddefault.jpg",
     titulo:
       "Growcast #05 | Como iniciar na carreira em Desenvolvimento de Softwares?",
     link: "https://www.youtube.com/embed/mxnEm03cYPc?si=CPILzfbDTP1P-iF7",
@@ -50,7 +50,7 @@ const filmes = [
     id: 5,
   },
   {
-    img: "https:img.youtube.com/vi/m7DyR07KrOE/sddefault.jpg",
+    img: "https://img.youtube.com/vi/m7DyR07KrOE/sddefault.jpg",
     titulo: "Growcast #06 | Mulheres e inclusão na tecnologia",
     link: "https://www.youtube.com/embed/m7DyR07KrOE?si=a0l826wHZMiNey-n",
     categoria: "growcast",
@@ -58,7 +58,7 @@ const filmes = [
     id: 6,
   },
   {
-    img: "https:img.youtube.com/vi/vW8G9KPwRL0/sddefault.jpg",
+    img: "https://img.youtube.com/vi/vW8G9KPwRL0/sddefault.jpg",
     titulo: "Growcast #07 | Desenvolvendo profissionais na área de ",
     link: "https://www.youtube.com/embed/vW8G9KPwRL0?si=XSCCXcZg1pnK5-Ih",
     categoria: "growcast",
@@ -66,7 +66,7 @@ const filmes = [
     id: 7,
   },
   {
-    img: "https:img.youtube.com/vi/_Ut2KqAqPyk/sddefault.jpg",
+    img: "https://img.youtube.com/vi/_Ut2KqAqPyk/sddefault.jpg",
     titulo:
       "Growcast #08 | A solução que está transformando o mercado de TI no Brasil",
     link: "https://www.youtube.com/embed/_Ut2KqAqPyk?si=TYnnoRK-GExFygGG",
@@ -75,7 +75,7 @@ const filmes = [
     id: 8,
   },
   {
-    img: "https:img.youtube.com/vi/dfDgs0Ive2Q/sddefault.jpg",
+    img: "https://img.youtube.com/vi/dfDgs0Ive2Q/sddefault.jpg",
     titulo:
       "Growcast #09 | Acompanhe com quem realmente entende, tudo sobre o mercado de trabalho no mundo da TI.",
     link: "https://www.youtube.com/embed/dfDgs0Ive2Q?si=w6q3tvWsU8UTmPrj",
@@ -84,7 +84,7 @@ const filmes = [
     id: 9,
   },
   {
-    img: "https:img.youtube.com/vi/WKbLXuP9S-c/sddefault.jpg",
+    img: "https://img.youtube.com/vi/WKbLXuP9S-c/sddefault.jpg",
     titulo: "Webinar - Recriando a interface do Linkedin com Flutter",
     link: "https://www.youtube.com/embed/WKbLXuP9S-c?si=nzBmTo_kwbA5Cgzr",
     categoria: "webinar",
@@ -92,7 +92,7 @@ const filmes = [
     id: 10,
   },
   {
-    img: "https:img.youtube.com/vi/dJ6y1zMjVXU/sddefault.jpg",
+    img: "https://img.youtube.com/vi/dJ6y1zMjVXU/sddefault.jpg",
     titulo: "Webinar - Recriando a interface do Instagram com Flutter",
     link: "https://www.youtube.com/embed/dJ6y1zMjVXU?si=PWTnb5gcJOsVgiC3",
     categoria: "webinar",
@@ -100,7 +100,7 @@ const filmes = [
     id: 11,
   },
   {
-    img: "https:img.youtube.com/vi/8rdJsqUjsGg/sddefault.jpg",
+    img: "https://img.youtube.com/vi/8rdJsqUjsGg/sddefault.jpg",
     titulo: "Webinar - Recriando a interface do iFood com Flutter",
     link: "https://www.youtube.com/embed/8rdJsqUjsGg?si=XEGy41iNrjIVYQQO",
     categoria: "webinar",
@@ -108,7 +108,7 @@ const filmes = [
     id: 12,
   },
   {
-    img: "https:img.youtube.com/vi/C4p_7qBsECw/sddefault.jpg",
+    img: "https://img.youtube.com/vi/C4p_7qBsECw/sddefault.jpg",
     titulo: "Webinar - Recriando a interface do PicPay com Flutter",
     link: "https://www.youtube.com/embed/C4p_7qBsECw?si=WdXrhZALfsS8bvqa",
     categoria: "webinar",
@@ -116,7 +116,7 @@ const filmes = [
     id: 13,
   },
   {
-    img: "https:img.youtube.com/vi/L1pKoMC6hWk/sddefault.jpg",
+    img: "https://img.youtube.com/vi/L1pKoMC6hWk/sddefault.jpg",
     titulo: "Webinar - Recriando o layout do WhatsApp com Flutter",
     link: "https://www.youtube.com/embed/L1pKoMC6hWk?si=BrBDMBo7fGDSDQJq",
     categoria: "webinar",
@@ -124,7 +124,7 @@ const filmes = [
     id: 14,
   },
   {
-    img: "https:img.youtube.com/vi/FiZMowbaiJA/sddefault.jpg",
+    img: "https://img.youtube.com/vi/FiZMowbaiJA/sddefault.jpg",
     titulo: "Live #5 Jornada UX/UI: O UX/UI Design é para todos?",
     link: "https://www.youtube.com/embed/FiZMowbaiJA?si=5-4rk7hi-weOATmq",
     categoria: "jornadaux",
@@ -132,7 +132,7 @@ const filmes = [
     id: 15,
   },
   {
-    img: "https:img.youtube.com/vi/cwqDu0ZzbYE/sddefault.jpg",
+    img: "https://img.youtube.com/vi/cwqDu0ZzbYE/sddefault.jpg",
     titulo:
       "Live #4 Jornada UX/UI: Como migrar para o UX/UI Design: a trajetória de uma designer - Growdev",
     link: "https://www.youtube.com/embed/cwqDu0ZzbYE?si=sOSRPMENnhds5zTt",
@@ -141,7 +141,7 @@ const filmes = [
     id: 16,
   },
   {
-    img: "https:img.youtube.com/vi/ZMZjQ9aRuIY/sddefault.jpg",
+    img: "https://img.youtube.com/vi/ZMZjQ9aRuIY/sddefault.jpg",
     titulo:
       "Live #3 Jornada UX/UI: As oportunidades de estudar um programa de formação pagando após formado",
     link: "https://www.youtube.com/embed/ZMZjQ9aRuIY?si=SqEgUa_HsM5qlABx",
@@ -150,7 +150,7 @@ const filmes = [
     id: 17,
   },
   {
-    img: "https:img.youtube.com/vi/8sd3wuKTZMA/sddefault.jpg",
+    img: "https://img.youtube.com/vi/8sd3wuKTZMA/sddefault.jpg",
     titulo:
       "Live #2 Jornada UX/UI: O profissional de UX/UI Design no mercado digital - Growdev",
     link: "https://www.youtube.com/embed/8sd3wuKTZMA?si=MaMwCVpPfDVvmOZQ",
@@ -159,7 +159,7 @@ const filmes = [
     id: 18,
   },
   {
-    img: "https:img.youtube.com/vi/-26aqPtgoEY/sddefault.jpg",
+    img: "https://img.youtube.com/vi/-26aqPtgoEY/sddefault.jpg",
     titulo:
       "Live #1 Jornada UX/UI: O papel do UX/UI Designer no desenvolvimento de um produto digital - Growdev",
     link: "https://www.youtube.com/embed/-26aqPtgoEY?si=ydEdeiW9aVu7_fLu",
@@ -168,7 +168,7 @@ const filmes = [
     id: 19,
   },
   {
-    img: "https:img.youtube.com/vi/QsuhYgsSYQo/sddefault.jpg",
+    img: "https://img.youtube.com/vi/QsuhYgsSYQo/sddefault.jpg",
     titulo: "Célula de talentos - Uma solução Growdev",
     link: "https://www.youtube.com/embed/QsuhYgsSYQo?si=mQ4xy08pUDVqxy_v",
     categoria: "diversos",
@@ -176,7 +176,7 @@ const filmes = [
     id: 20,
   },
   {
-    img: "https:img.youtube.com/vi/ouDn8z3PSqs/sddefault.jpg",
+    img: "https://img.youtube.com/vi/ouDn8z3PSqs/sddefault.jpg",
     titulo: "Como é o dia a dia de um dev? Live Growdev com Marcelo Eltz",
     link: "https://www.youtube.com/embed/ouDn8z3PSqs?si=PRHWyHGquxBaeINS",
     categoria: "diversos",
@@ -184,7 +184,7 @@ const filmes = [
     id: 21,
   },
   {
-    img: "https:img.youtube.com/vi/cQDQNX6NXYo/sddefault.jpg",
+    img: "https://img.youtube.com/vi/cQDQNX6NXYo/sddefault.jpg",
     titulo:
       "Onde trabalhar com qualidade de software? Conheça a Testing Company, empresa parceira da Growdev",
     link: "https://www.youtube.com/embed/cQDQNX6NXYo?si=xMfEmnUu7WSrHQf4",
@@ -193,7 +193,7 @@ const filmes = [
     id: 22,
   },
   {
-    img: "https:img.youtube.com/vi/nKGbolkirBM/sddefault.jpg",
+    img: "https://img.youtube.com/vi/nKGbolkirBM/sddefault.jpg",
     titulo: "WEBINAR ANALISTA DE DADOS - com Paulo Marcon da Arezzo&Co",
     link: "https://www.youtube.com/embed/nKGbolkirBM?si=uLZ7W79RoRtVssdz",
     categoria: "diversos",
@@ -201,7 +201,7 @@ const filmes = [
     id: 23,
   },
   {
-    img: "https:img.youtube.com/vi/6sZPsqNjeek/sddefault.jpg",
+    img: "https://img.youtube.com/vi/6sZPsqNjeek/sddefault.jpg",
     titulo: "Tecnologia trazendo soluções para a Arezzo & CO | Ricardo Pinho",
     link: "https://www.youtube.com/embed/6sZPsqNjeek?si=qbttmDofiKr1dVTc",
     categoria: "diversos",
