@@ -1,0 +1,86 @@
+/**
+ * Estilos personalizados para a página inicial do Growflix
+ */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+
+/* Estilos para o banner inicial */
+main {
+  height: 100vh;
+  background-image: url("/assets/images/banner-initial.png");
+  background-color: rgb(0, 0, 0);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+
+.btn-danger {
+  background-color: red;
+  padding: 1.5rem;
+}
+
+.divisor {
+  border-bottom: 3px solid #515c6f;
+}
+
+/* Estilos para o acordeão */
+.accordion {
+  --bs-accordion-btn-color: #fff;
+  --bs-accordion-btn-bg: #303030;
+  --bs-accordion-active-bg: #303030;
+  --bs-accordion-active-color: #fff;
+}
+.accordion-button::after {
+  background-image: url("/assets/images/plus-lg.svg");
+  transition: all 0.5s;
+}
+.accordion-button:not(.collapsed)::after {
+  background-image: url("/assets/images/plus-lg.svg");
+}
+/* Estilos para a barra de navegação */
+.navbar {
+  --bs-navbar-color: #adadad;
+  --bs-navbar-hover-color: #d4d4d4;
+  --bs-navbar-active-color: #fff;
+  --bs-navbar-brand-margin-end: 5rem;
+  --bs-navbar-toggler-icon-bg: url("/assets/images/list.svg");
+  --bs-navbar-toggler-border-color: #adadad52;
+}
+
+.navbar li {
+  font-size: 0.8rem;
+}
+
+/* Estilos para o rodapé */
+footer {
+  border-top: 3px solid #515c6f;
+}
+footer a {
+  text-decoration: none;
+  color: #515c6f;
+  font-size: 0.8rem;
+  display: block;
+}
+footer p {
+  font-size: 0.9rem;
+  color: #515c6f;
+}
+
+.fs-7 {
+  font-size: 0.8rem;
+}
+
+.filme-hover {
+  transform: scale(1.05);
+  bottom: 20px;
+  transition: all 0.4s ease-in-out;
+}
+.filme-hover-out {
+  transform: scale(1);
+  bottom: 0;
+  transition: all 0.4s ease-in-out;
+}
